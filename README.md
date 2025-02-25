@@ -46,4 +46,8 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<<<<<<< HEAD
 ###
+=======
+###
+>>>>>>> 0d6016e3aed976485c5fecaedb36649d49c10a39
