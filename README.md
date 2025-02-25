@@ -1,4 +1,4 @@
-<h2 align="left">Hello there! I'm Marco</h2>
+<h1 align="left">Hello there! I'm Marco</h1>
 
 ###
 
