@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00ff00&height=100&section=header&text=NEUROMANCER&fontSize=50&fontAlignY=40&desc=Case+jacks+in...&descAlignY=65&animation=twinkling" alt="Neuromancer Header">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&reversal=false&section=header">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=9D59D2&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
 
