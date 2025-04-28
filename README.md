@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=9D59D2FF">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9D59D2FF">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=3000&pause=500&color=9D59D2&center=true&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
 
