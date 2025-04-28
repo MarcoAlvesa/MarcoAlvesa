@@ -8,7 +8,7 @@
 ```rust
 fn neuromancer_ice(cyberdeck: &str) -> String {
     match cyberdeck {
-        "Ono-Sendai" => String::from(">> Wintermute laughs: 'I'm the sum of your fears.'"),
+        "Ono-Sendai" => String::from(">> ICE breached. Wintermute is watching..."),
         _ => String::from(">> ICE freezes your synapses.")
     }
 }
@@ -38,3 +38,5 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcoAlvesa/MarcoAlvesa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MarcoAlvesa/MarcoAlvesagit/output/github-snake.svg" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9D59D2FF&section=footer">
