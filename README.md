@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&reversal=false&section=header">
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=9D59D2&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
-
+</div>
 ###
 
 <div align="center">
