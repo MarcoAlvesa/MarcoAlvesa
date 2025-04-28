@@ -9,7 +9,7 @@
 fn neuromancer_ice(cyberdeck: &str) -> String {
     match cyberdeck {
         "Ono-Sendai" => String::from(">> Wintermute laughs: 'I'm the sum of your fears.'"),
-        _ => String::from(">> ICE freezes your synapses. 'See you in the Villa Straylight.'")
+        _ => String::from(">> ICE freezes your synapses.")
     }
 }
 ```
