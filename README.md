@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9D59D2FF">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=3000&pause=500&color=9D59D2&center=true&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
-###
 
-###
 ```rust
 fn neuromancer_ice(cyberdeck: &str) -> String {
     match cyberdeck {
@@ -13,8 +11,7 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
     }
 }
 ```
-###
-###
+
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
@@ -23,17 +20,14 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
 </div>
 
 <br/>
-###
-###
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoAlvesa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoAlvesa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
 
-###
-<h2>🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 <br clear="both">
 
 <picture>
