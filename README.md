@@ -1,4 +1,6 @@
-<h1 align="left">Hello there! I'm Margo</h1>
+<img width=100% scr="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&reversal=false&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D59D2&width=435&lines=Hello+there!;I'm+Margo.;'Sky+tuned+to+a+dead+channel')](https://git.io/typing-svg)
 
 ###
 
