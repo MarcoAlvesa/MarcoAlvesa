@@ -11,7 +11,7 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
     }
 }
 ```
-
+<br/>
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
@@ -28,7 +28,6 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
 </div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcoAlvesa/MarcoAlvesa/output/github-snake-dark.svg" />
