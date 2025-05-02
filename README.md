@@ -16,7 +16,7 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,arch" />
-    <img src="https://skillicons.dev/icons?i=rust,react,tailwind,cs,dotnet,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,go,react,tailwind,cs,dotnet,mysql" /><br>
 </div>
 
 <br/>
