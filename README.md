@@ -15,7 +15,7 @@ fn neuromancer_ice(cyberdeck: &str) -> String {
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,debian" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,arch" />
     <img src="https://skillicons.dev/icons?i=rust,react,tailwind,cs,dotnet,mysql" /><br>
 </div>
 
